@@ -1,0 +1,21 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Application/">
+    <Project Path="PruebaTecnicaLafise.Application/PruebaTecnicaLafise.Application.csproj" Id="c05d65fd-5661-408d-85f9-7125effc82d4" />
+  </Folder>
+  <Folder Name="/src/Common/">
+    <Project Path="PruebaTecnicaLafise.Common/PruebaTecnicaLafise.Common.csproj" Id="b829d89c-fbfc-4aa5-8fc4-162306888aaa" />
+  </Folder>
+  <Folder Name="/src/Domain/">
+    <Project Path="PruebaTecnicaLafise.Domain/PruebaTecnicaLafise.Domain.csproj" Id="68c5c727-4eb6-4240-937e-9aa342c29688" />
+  </Folder>
+  <Folder Name="/src/Infraestructure/">
+    <Project Path="PruebaTecnicaLafise.Infraestructure/PruebaTecnicaLafise.Infraestructure.csproj" Id="f583e008-533b-4865-9d02-2c2f24b18632" />
+  </Folder>
+  <Folder Name="/src/Tests/">
+    <Project Path="PruebaTecnicaLafise.Tests/PruebaTecnicaLafise.Tests.csproj" Id="153f7c8b-c074-4661-bd21-7650a774b5a7" />
+  </Folder>
+  <Folder Name="/src/WebServer/">
+    <Project Path="PruebaTecnicaLafise.WebServer/PruebaTecnicaLafise.WebServer.csproj" Id="ace2e971-fe68-4881-baa5-aeea7c82831e" />
+  </Folder>
+</Solution>

@@ -1,0 +1,6 @@
+@PruebaTecnicaLafise.WebServer_HostAddress = http://localhost:5034
+
+GET {{PruebaTecnicaLafise.WebServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,27 @@
+# Carpetas de compilación (en todos los proyectos)
+**/bin/
+**/obj/
+
+# Configuración de Visual Studio (en toda la solución)
+**/.vs/
+*.user
+*.suo
+
+# Archivos de configuración local con credenciales
+appsettings.Development.json
+appsettings.Local.json
+
+# Archivos de logs
+*.log
+logs/
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Paquetes generados
+*.nupkg
+
+# Archivos del sistema operativo
+Thumbs.db
+.DS_Store
