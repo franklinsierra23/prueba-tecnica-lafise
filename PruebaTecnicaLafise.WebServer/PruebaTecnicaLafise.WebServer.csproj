@@ -18,5 +18,11 @@
   <ItemGroup>
     <Folder Include="Data\" />
   </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PruebaTecnicaLafise.Application\PruebaTecnicaLafise.Application.csproj" />
+    <ProjectReference Include="..\PruebaTecnicaLafise.Common\PruebaTecnicaLafise.Common.csproj" />
+    <ProjectReference Include="..\PruebaTecnicaLafise.Infraestructure\PruebaTecnicaLafise.Infraestructure.csproj" />
+  </ItemGroup>
   
 </Project>
